@@ -1,3 +1,2 @@
-# dnd-chatbots-project
+# Page 1
 
-This project exists to provide a public wiki and issue tracking. Code is kept in a seperate private repository.
